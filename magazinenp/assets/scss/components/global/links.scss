@@ -1,0 +1,12 @@
+a,
+a:hover {
+	color: $primary_color;
+}
+
+a {
+	text-decoration: none;
+
+	&:focus {
+		outline: none;
+	}
+}
